@@ -1,7 +1,4 @@
-                                                          P1: Finding Lane Lines on the Road
 
-
-### Reflection
 Pipeline Description:
 My lane detection pipeline is consisting of six different steps and below I have mentioned all these steps in details.
 
